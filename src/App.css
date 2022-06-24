@@ -1,0 +1,35 @@
+body {
+  background: #86109b;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.input-text {
+  display: inline;
+  margin: 0;
+  border: none;
+  border-radius: 0.4rem;
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
+  display: inline;
+  margin:0%;
+  border:none;
+  padding: 10px;
+}
+
+
+
+.container {
+  color: #fff;
+  max-width: 500px;
+  margin: auto;
+}
